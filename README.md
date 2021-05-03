@@ -1,4 +1,4 @@
-# SQL---1-Using-basic-functions-
+# SQL-functions-
 Case study on IPL Match Bidding 
 
 Pie-in-the-Sky
